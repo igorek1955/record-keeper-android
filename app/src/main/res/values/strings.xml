@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Record Keeper</string>
+    <string name="running">Running</string>
+    <string name="cycling">Cycling</string>
+    <string name="image_description_running_image">Running Image</string>
+    <string name="heading_5km">5km</string>
+    <string name="heading_10km">10km</string>
+    <string name="heading_15km">15km</string>
+    <string name="heading_20km">20km</string>
+    <string name="heading_25km">25km</string>
+    <string name="heading_35km">35km</string>
+    <string name="heading_50km">50km</string>
+    <string name="heading_60km">60km</string>
+    <string name="edit_text_time">Time</string>
+    <string name="edit_text_date">Date</string>
+    <string name="button_submit">Submit</string>
+    <string name="use_current_data_and_time">Use current data and time</string>
+    <string name="title_activity_edit_cycling_record">EditCyclingRecordActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
